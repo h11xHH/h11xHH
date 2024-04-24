@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @h11xHH
-- 🛌 I’m interested in sleeping.
-- 📖 I’m currently learning C programming & Linux environment & Data Structures.
+- 👋 I’m @h11xHH
+- 🏫 Department of Mathematics, Faculty of Science, The University of Hong Kong, Hong Kong SAR, China
+- 💻 Interest in Data Science
 
 <!---
 h11xHH/h11xHH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
