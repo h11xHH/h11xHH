@@ -1,5 +1,4 @@
 - 👋 I’m @h11xHH
-- 🏫 Undergraduate in Department of Statistics and Actuarial Science, Faculty of Science, The University of Hong Kong, Hong Kong SAR, China
 - 💻 Interest in Data Science
 
 <!---
